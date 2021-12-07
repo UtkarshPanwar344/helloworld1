@@ -1,2 +1,2 @@
-<h1> Hello, Welcome everyone to my demo project </h1>
+<h1> Hello all, Welcome everyone to my demo project </h1>
 
